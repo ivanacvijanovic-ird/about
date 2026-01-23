@@ -6,10 +6,14 @@ body {
 }
 
 header {
-  background: linear-gradient(120deg, #4f46e5, #06b6d4);
+  background: linear-gradient(120deg, #9333ea, #f43f5e);
   color: white;
   padding: 60px 20px;
   text-align: center;
+}
+
+header p {
+  font-size: 1.3em;
 }
 
 main {
