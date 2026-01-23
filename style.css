@@ -1,12 +1,12 @@
 body {
   margin: 0;
   font-family: system-ui, Helvetica, sans-serif;
-  background: linear-gradient(120deg, #4f46e5, #06b6d4);
+  background: #f4f6fb;
   color: #333;
 }
 
 header {
-  background: linear-gradient(120deg, #9333ea, #f43f5e);
+  background: linear-gradient(120deg, #4f46e5, #06b6d4);
   color: white;
   padding: 60px 20px;
   text-align: center;
