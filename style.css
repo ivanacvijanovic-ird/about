@@ -14,14 +14,16 @@ header {
 }
 
 header p {
+  margin-top: 6px;
   font-size: 1.6em;
+  color: #444;
 }
 
 main {
   max-width: 800px;
-  margin: 40px auto;
+  margin: 30px auto;
   background: white;
-  padding: 40px;
+  padding: 30px;
   border-radius: 12px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
@@ -61,20 +63,14 @@ footer {
   max-width: 900px;
   display: block;
   margin: auto;
-  animation: point 2.5s ease-in-out infinite;
-  transform-origin: right center;
+  animation: calmPulse 3.5s ease-in-out infinite;
 }
 
-@keyframes point {
-  0% {
-    transform: translateX(0) rotate(0deg);
-  }
-  50% {
-    transform: translateX(-6px) rotate(-1deg);
-  }
-  100% {
-    transform: translateX(0) rotate(0deg);
-  }
+@keyframes calmPulse {
+  0%   { opacity: 1; }
+  50%  { opacity: 0.85; }
+  100% { opacity: 1; }
 }
+
 
 
