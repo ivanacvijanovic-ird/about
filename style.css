@@ -1,15 +1,16 @@
 body {
   margin: 0;
   font-family: system-ui, Helvetica, sans-serif;
-  background: #f4f6fb;
-  color: #333;
+  background: #f2f2f2;
+  color: #111;
 }
 
 header {
-  background: linear-gradient(120deg, #4f46e5, #7c3aed);
-  color: white;
-  padding: 60px 20px;
+  background: #ffffff;
+  color: #111;
+  padding: 25px 20px;
   text-align: center;
+  border-bottom: 2px solid #ddd;
 }
 
 header p {
