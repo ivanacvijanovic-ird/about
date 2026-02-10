@@ -43,7 +43,7 @@ body {
 
 /* Navigation */
 .home-nav {
-  margin-top: 20px;          /* closer to the line */
+  margin-top: 0px;          /* closer to the line */
   text-align: center;
 }
 
@@ -71,7 +71,12 @@ body {
   }
 
   .home-nav a {
-    font-size: 1rem;
+  font-family: Helvetica, Helvetica, sans-serif;
+  font-size: 2rem;
+  margin: 0 55px;
+  text-decoration: none;
+  color: black;
+  letter-spacing: 0.05em;
   }
 }
 
