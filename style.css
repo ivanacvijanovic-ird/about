@@ -56,24 +56,42 @@ body {
   .home-nav {
   display: flex;
   justify-content: center;
-  gap: 20px;
-  margin-top: -10px;
-  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 0;
+  flex-wrap: nowrap;
 }
 
 .home-nav a {
-  font-family: Helvetica, Helvetica, sans-serif;
-  font-size: 1.5rem;          /* bigger text */
-  margin: 0 45px;          /* more space between items */
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  margin: 0;
   text-decoration: none;
   color: black;
   letter-spacing: 0.04em;
   line-height: 1;
   position: relative;
-   transition: opacity 0.2s ease;
+  transition: opacity 0.2s ease;
 }
 
 .home-nav a:hover {
+  color: #cc0000;
+}
+/* Why 1.5°C link */
+.why-link {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.why-link a {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.6rem;
+  text-decoration: none;
+  color: black;
+  letter-spacing: 0.04em;
+}
+
+.why-link a:hover {
   color: #cc0000;
 }
 
