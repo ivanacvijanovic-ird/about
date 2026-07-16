@@ -1,1 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Outreach Resources</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+
+
+<div class="page">
+  <div class="sub-nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="publications.html">Publications</a>
+    <a href="cv.html">CV</a>
+    <a href="contact.html">Contact</a>
+     <p>
+       
+     </p>
+     <h1 style="text-align: center;">Outreach Resources</h1>
+  </div>
+
+  
+  <p>
+  In collaboration with colleagues from ISGlobal, we have developed an 
+<a href="https://www.isglobal.org/en/heat-index-calculator" target="_blank">
+online Heat Index Calculator</a>. You can use it to estimate how dangerous conditions are in your home (you only need temperature and humidity). We also provide resources on how to recognize heat related illness.
+The Heat Index Calculator accompanied the publication of the paper "Importance of humidity for characterization and communication of dangerous heatwave conditions" that was widely reported upon ( ).
+
+  </p>
+  
+  <p>
+In March 2026, in collaboration with Just Atonement Inc. and the UN Special Rapporteur on Climate Change and Human Rights, I co-organized the side event: <a href="https://tipesm.eu/knowledge-hub/policy-resources/" target="_blank">"Tipping Points and Human Rights"</a> during the 61st session of the UN Human Rights Council.  
+For more information, see my presentation <a href="https://zenodo.org/records/19206248" target="_blank">"Do we need a legal framework for loss of habitability due to extreme heat?"</a>
+Recording of the event is avaialable <a href="https://www.youtube.com/watch?v=gSe0RZrYtBI&t=1s" target="_blank">here</a>. 
+
+ </p>
+  
+  <p>
+Our paper <a href="" target="_blank">"The future of European outdoor summer sports through the lens of 50 years of the Tour de France"</a> generated lots of public interest, 
+we have answered a number of media queries some of which are listed here: .
+</a>
+   </p>
+
+  <p>
+Papers demonstrating the impacts of Arctic sea ice loss on Californian and Mediterranean rainfall generated substantial media interest, some examples include.
+</a>
+   </p>
+
+   <p>
+  With colleagues from TipESM project, we organized an event for the Brazilian Ministry of Environment and Climate Change in April 2026. 
+For this purpose we developed a policy briefing factsheet:<a href="https://zenodo.org/records/20118126" target="_blank">"The Amazon: A Potential Tipping Point in The Earth’s Climate System"</a>.
+  </p>
+
+ <p>
+  Occassionaly, mostly when ISGlobal colleagues force me, I write some blog posts:
+  </p>
+
+
+  
+  </div>
+  </body>
+  </html>
